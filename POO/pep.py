@@ -1,0 +1,4 @@
+## espaçamento
+
+def meuMetodo():
+    pass
